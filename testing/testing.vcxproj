@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test_binary_insertion_sort.cpp" />
     <ClCompile Include="test_selection_sort.cpp" />
     <ClCompile Include="test_bubble_sort.cpp" />
     <ClCompile Include="test_exchange_sort.cpp" />
     <ClCompile Include="test_insertion_sort.cpp" />
     <ClCompile Include="test_optimized_bubble_sort.cpp" />
+    <ClCompile Include="test_shaker_sort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
